@@ -1,7 +1,5 @@
 # GAP - Generalized Adaptive Polynomial Window Function
 
-João F. Justo and Wesley Beccaro 
-
 IEEE Access 8, 187584 (2020).  DOI: 10.1109/ACCESS.2020.3030903
 
 IEEExplore: https://ieeexplore.ieee.org/document/9223641
