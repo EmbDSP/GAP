@@ -7,6 +7,7 @@ IEEE Access 8, 187584 (2020).  DOI: 10.1109/ACCESS.2020.3030903
 IEEExplore: https://ieeexplore.ieee.org/document/9223641
 
 
+
 Discrete Fourier Transform (DFT) is a powerful tool to perform Fourier analysis in discrete data, with several applications, such as astronomy, chemistry, acoustics, geophysics, and digital processing.
 
 The use of window functions affects the analysis in the frequency domain, sometimes introducing unwanted artifacts, such as signal leakage, scalloping loss, and intensity of sidelobes.
