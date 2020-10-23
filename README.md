@@ -9,25 +9,6 @@ IEEExplore: https://ieeexplore.ieee.org/document/9223641
 
 J. F. Justo and W. Beccaro, "Generalized Adaptive Polynomial Window Function," in IEEE Access, vol. 8, pp. 187584-187589, 2020, doi: 10.1109/ACCESS.2020.3030903.
 
-@article{Justo2020,
-
-  author={J. F. {Justo} and W. {Beccaro}},
-  
-  journal={IEEE Access}, 
-  
-  title={Generalized Adaptive Polynomial Window Function}, 
-  
-  year={2020},
-  
-  volume={8},
-  
-  number={},
-  
-  pages={187584-187589},
-  
-  doi={10.1109/ACCESS.2020.3030903}}
-
-
 
 Introduction
 
