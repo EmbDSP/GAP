@@ -22,8 +22,8 @@ function w = gapwin(windowtype, M, varargin)
 %                 'opt_gap_nuttall': Optimized Nuttall using GAP Algorithm 
 %                 'user': User-defined window, coefficients a2 to a20 
 %
-%   M        (input)   order of symmetric (aperiodic) window
-%   w        (output)  returns an M-point symmetric GAP window.
+%   M        (input)   M-point window.
+%   w        (output)  returns an M-point  GAP window.
 %   
 %   Authors: J.F. Justo, W. Beccaro
 %   Data:   2020
